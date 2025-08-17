@@ -1,35 +1,39 @@
-# Clone of chriskalafatis.com
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-This is a static clone of the portfolio website of Chris Kalafatis.
+## Getting Started
 
-## How to run
+First, run the development server:
 
-To run the site locally, you can use Python's built-in HTTP server.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-1.  Make sure you have Python 3 installed.
-2.  Open your terminal and navigate to the project's root directory.
-3.  Run the following command:
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-    ```bash
-    python3 -m http.server 8000
-    ```
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-4.  Open your browser and go to `http://localhost:8000`.
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Technologies Used
+## Learn More
 
-The original website was built with:
-*   Node.js
-*   Express
-*   Three.js
-*   GSAP
+To learn more about Next.js, take a look at the following resources:
 
-This is a static clone and only uses:
-*   HTML
-*   CSS
-*   JavaScript
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## Credits
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-*   Original website by [Chris Kalafatis](https://chriskalafatis.com/)
-*   Cloned by Jules
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# my-portfolio
+# my-portfolio
+# my-portfolio
